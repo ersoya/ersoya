@@ -3,7 +3,7 @@
 <br/>
 
 ## 👨‍💻 About me
-A passionate software engineer, with 4+ years of experience in iOS Development and integration of complex mobile applications. Deeply interested in building software products with optimizing the quality. Graduate of Bilkent University, CTIS. Skilled in backend and web development. Extremely focused on the right path to success. Specializing in entrepreneurship and self-improvement.
+A passionate software engineer, with 6+ years of experience in iOS Development and integration of complex mobile applications. Deeply interested in building software products with optimizing the quality. Graduate of Bilkent University, CTIS. Skilled in backend and web development. Extremely focused on the right path to success. Specializing in entrepreneurship and self-improvement.
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)

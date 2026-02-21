@@ -3,7 +3,8 @@
 <br/>
 
 ## 👨‍💻 About me
-A passionate software engineer, with 6+ years of experience in iOS Development and integration of complex mobile applications. Deeply interested in building software products with optimizing the quality. Graduate of Bilkent University, CTIS. Skilled in backend and web development. Extremely focused on the right path to success. Specializing in entrepreneurship and self-improvement.
+Senior iOS Engineer with 6+ years of experience building scalable mobile applications in large-scale environments. Experienced in modular architecture, performance optimization, and production-grade Swift development. Strong background in MVVM, Viper, concurrency, and maintainable system design for apps serving millions of users.
+
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)

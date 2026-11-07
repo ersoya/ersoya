@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Arda Ersoy — Senior iOS Engineer</title>
+  <desc id="desc">A deep blue and violet banner fading smoothly into black.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#172554"/>
+      <stop offset="0.38" stop-color="#111c3c"/>
+      <stop offset="0.72" stop-color="#080b16"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(1020 8) rotate(140) scale(520 260)">
+      <stop offset="0" stop-color="#3984ff" stop-opacity="0.52"/>
+      <stop offset="0.48" stop-color="#2458c8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2458c8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(200 100) rotate(28) scale(520 300)">
+      <stop offset="0" stop-color="#7657ff" stop-opacity="0.42"/>
+      <stop offset="0.52" stop-color="#5338bd" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#5338bd" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soften" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#background)"/>
+  <rect width="1280" height="320" fill="url(#blueGlow)"/>
+  <rect width="1280" height="320" fill="url(#violetGlow)"/>
+  <ellipse cx="640" cy="112" rx="420" ry="95" fill="#4f7cff" fill-opacity="0.08" filter="url(#soften)"/>
+  <rect x="320" y="224" width="640" height="1" fill="url(#hairline)"/>
+
+  <g fill="#ffffff" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="640" y="148" font-size="42" font-weight="600" letter-spacing="2">ARDA ERSOY</text>
+    <text x="640" y="190" font-size="17" font-weight="400" letter-spacing="5" fill-opacity="0.72">SENIOR iOS ENGINEER</text>
+  </g>
+</svg>
